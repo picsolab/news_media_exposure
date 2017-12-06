@@ -13,7 +13,7 @@ The data sets include the metadata of the news coverage over the aforementioned 
 ##Summary of the data collection procedure
 We used news aggregators including Google and Yahoo news, to retrieve news articles published by the four outlets on a daily basis. We first collected the URLs of the news articles from the news aggregators and retrieved and parsed the news content using an HTML parser. In total, we collected over 38.5K and 54.1K news articles in dataset I and II, respectively.
 
-![Fig.1: dataset summary](data_summary.png?raw=true)
+![Fig.1: dataset summary](data_summary.jpg?raw=true)
 
 There are six files; each correspond to news coverage from the outlets in each wave. In these files, each line contains four columns:
 outlet, time, title, url
